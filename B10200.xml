@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True Relation of the rise and progress of the East India Company, shewing how their manufactures have been, are, and will be prejudicial, to the manufactures of England; and what endeavours have been used for and against any restriction. Together with some remarks thereon.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10200</idno>
+            <idno type="OCLC"> 80924805</idno>
+            <idno type="STC">Wing T3035A</idno>
+            <idno type="STC">ESTC R185714</idno>
+            <idno type="EEBO-CITATION">80924805</idno>
+            <idno type="OCLC">ocm 80924805</idno>
+            <idno type="VID">192117</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10200)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192117)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2900:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True Relation of the rise and progress of the East India Company, shewing how their manufactures have been, are, and will be prejudicial, to the manufactures of England; and what endeavours have been used for and against any restriction. Together with some remarks thereon.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by A. Baldwin in Warwick-Lane,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  History --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:192117:1"/>
+            <pb n="1" facs="tcp:192117:1" rendition="simple:additions"/>
+            <head>A true Relation of the Riſe and Progreſs of the <hi>Eaſt-India</hi> Company, ſhewing how their <hi>Manufactures</hi> have been, are, and will be prejudicial, to the <hi>Manufactures</hi> of <hi>England;</hi> and what <hi>Endeavours</hi> have been uſed for and againſt any Reſtriction. Together with ſome <hi>Remarks</hi> thereon.</head>
+            <p>THE Goods Imported from the <hi>Eaſt-Indies,</hi> for ſeveral Years after the <hi>Eaſt-India</hi> Com<g ref="char:EOLhyphen"/>pany was firſt Eſtabliſhed, were Drugs, Spices, Salt-petre, <hi>&amp;c.</hi> and ſome Courſe Callico's, which were moſt Exported again: The Members of that Company being then afraid to adventure on other Manufactured Goods, becauſe they well knew they would prejudice our own, and raiſe a Storm againſt the Company, as they oftentimes declared.</p>
+            <p>The Charter of the <hi>Eaſt-India</hi> Company was Confirmed by King <hi>Charles</hi> II. in the Thirteenth Year of his Reign: and the Law for permitting Bullion to be Exported, was made ſoon after, at the Solicitation of that Company; and till then, little Silver or Gold was Exported. After that Law was made, begun the great Exportation of Bullion to <hi>India.</hi>
+            </p>
+            <p>In <hi>Anno</hi> 72, or 73, ſeveral Artificers were ſent over by the Company, with great quantities of Engliſh Patterns, to teach the <hi>Indians</hi> how to Manufacture Goods to make them Vendible in <hi>England,</hi> and the reſt of the <hi>European</hi> Markets. After which began the great Trade in Manu<g ref="char:EOLhyphen"/>factured Goods from the <hi>Indies.</hi>
+            </p>
+            <p>This was complained of, and proved before ſeveral Lords appointed by King <hi>Charles</hi> II. in <hi>Anno</hi> 1680, or 81. Whereupon the Company received ſome diſcouragement; but finding great Gain by Wrought Silks, Bengals and Callico's, would not deſiſt Trading in them: upon which great Complaints were made in Parliament, againſt the growth of the <hi>Eaſt-India</hi> Trade, which was grown ſo large, that about 500000 <hi>l.</hi> in Bullion, and but ſmall quantities of our Manufactures were Yearly Exported; and vaſt quantities of Manufactured Goods Imported, for ſeveral Years before the War, which were moſt ſpent in <hi>England,</hi> and our Plantations, in the room of our own Manufactures, <hi>viz.</hi> their Wrought Silks, Bengals, Painted and Dyed Calli<g ref="char:EOLhyphen"/>co's, in the room of our Silks, Half Silks, Worſted Stuffs, Say's, Perpetuano's, and divers other Commodities, not only for Veſtments for both Sexes, but for Hanging of Rooms, Beds, <hi>&amp;c.</hi>
+            </p>
+            <p>But this was not all the Miſchief theſe <hi>Indian</hi> Manufactures did us, for by our uſing <hi>Muſlings, Romalls,</hi> and <hi>Callico's,</hi> they have beat out the Uſe of fine <hi>German Linnens, Sileſia Cambricks,</hi> and <hi>Lawns,</hi> which we had in return of our own <hi>Wollen Cloth, &amp;c.</hi> which Trade is now almoſt wholly loſt: For the <hi>Sileſians,</hi> when we would not take off their Linnens, could not take off our Cloth, but were compell'd, by Neceſſity, to Set up the making Woollen Manufactures, with which they now Supply both themſelves and other Places, which heretofore we were wont to furniſh, (and, as we are Credibly inform'd, in <hi>Flanders</hi> they are now about doing the ſame thing)</p>
+            <p>By which means, the <hi>E. India</hi> Trade was encreas'd to a very great height, and their Manufactures in ſo great requeſt, that they (from being a Scandal to be worn a few years before) ſoon became the general Wear of almoſt all ſorts and degrees of Perſons, while our own were neg<g ref="char:EOLhyphen"/>lected, and our Manufacturers thereby under great diſcouragements; being not able to carry on their Trades, many were forced to give over, whereby the Poor wanted Employment, the price of Wooll reduced very low, and great quantities of Wooll could not be Manufactured: Where<g ref="char:EOLhyphen"/>upon the Parliament thought it neceſſary to make a Law for <hi>Burying in Woollen,</hi> thereby to con<g ref="char:EOLhyphen"/>ſume ſome of the Wooll that lay heavy upon the Growers Hands.</p>
+            <p>The <hi>Indians</hi> have Proviſions and Materials very cheap, and Work for a Peny a Day; which diſables us, and the reſt of the <hi>European</hi> Traders, to contend with them: and for this reaſon, their Trade did encreaſe apace, until the late War; and unleſs reſtrain'd, will moſt certainly encreaſe, to the ruining of our beſt Fabricks, and the vaſt number of People that have their Livelihood and Dependance thereupon.</p>
+            <p>Since this late War, the <hi>Eaſt-India</hi> Company have laboured under ſome Diſcouragements, and but ſmall quantities of their Manufactur'd Goods, in proportion to what they formerly brought in, were Imported; by reaſon whereof, great Encouragement was given to the Manufactures of Silk, Half Silk, and Worſted, which have been very much improv'd in a great variety of Figur'd, Strip'd, and other ſort of Stuffs, which were made not only in <hi>London, Norwich</hi> and <hi>Canterbury,</hi> in much greater quantities than ever; but theſe Manufactures were ſpread to <hi>Bristol, Newbury,</hi> and divers other parts of the Kingdom, whereby greater numbers of Poor have been employ'd, and greater quantities of Engliſh Wooll conſum'd; ſo that the Price of the Wooll advanc'd, and the Labour and Wages of the Poor encreas'd, which enabled them to live comfortably, and conſume the Product of the Land, to the great Advantage of the Landlords and Tenants, and Benefit of the Nation in general.</p>
+            <pb n="2" facs="tcp:192117:2"/>
+            <p>From <hi>Anno</hi> 88 (for ſeveral Years) there were frequent complaints in Parliament againſt the <hi>Old Eaſt-India</hi> Company, and very ill things proved upon them; and extraordinary Clamours againſt the Trade being driven by a Joynt-Stock, excluſive of all others, by the ſame Men that are now ſome of the Directors of this <hi>New.</hi> And great indeavours were uſed, and, as ſome ſay, ill Practices, to obtain a new Charter from the King; and after they had obtained a Charter with great Induſtry, they ſolicited for an Eſtabliſhment by Act of Parliament, and in <hi>Anno</hi> 93. a Bill was brought in, but did not paſs.</p>
+            <p>In <hi>Anno</hi> 95. the <hi>Eaſt-India</hi> Company indeavour'd again to get a Settlement by Act of Parliament; whereupon, the Weavers of <hi>London, Norwich, Canterbury,</hi> and the Woollen Manufacturers in many other places, petitioned, That ſome Reſtraint might be laid upon the Importation or Conſumption of theſe <hi>Indian</hi> Manufactures: Upon which, a Bill was brought in to Reſtrain the Wearing <hi>Wrought Silks, Bengals,</hi> and <hi>Printed Callicoes;</hi> which Bill was ſoon paſt, almoſt unanimouſly in the Houſe of Commons, but being ſtrongly oppoſed by the <hi>Eaſt-India</hi> Com<g ref="char:EOLhyphen"/>pany, and <hi>Linnen-Drapers,</hi> it was ſtopt in the Houſe of Lords.</p>
+            <p>The next Seſſions, the Manufacturers again Petitioned, and the ſame Bill again brought in early in the Seſſions; but by reaſon of more importunate buſineſs, it did not meet with ſo quick a diſpatch as the poor <hi>London</hi> Weavers expected, (which were at that time in great di<g ref="char:EOLhyphen"/>ſtreſs for want of Employment) they grew uneaſie, and by falſe rumours raiſed by thoſe that were Enemies to the Bill, great multitudes of thoſe poor People went to <hi>Weſtminſter</hi> in a Tu<g ref="char:EOLhyphen"/>multuous manner, to pray for the paſſing the Bill; which gave ſuch diſguſt, (as in reaſon it muſt needs do) that ſeveral Members, who were friends to it before, were now againſt it: ſo that the Bill paſt with ſome difficulty in their Houſe, and was again ſtopt in the Houſe of Lords by a very ſmall majority.</p>
+            <p>The chief Arguments uſed by the <hi>Eaſt India Men</hi> were, That though they Export great quan<g ref="char:EOLhyphen"/>tities of our Bullion, yet they bring in more by their Goods Exported. That it's the Intereſt of this Nation to wear <hi>Eaſt India</hi> Goods, becauſe Cheap, and ſend our own to Forreign Markets, where they may be Sold to more Advantage. Both which Arguments were denyed, and they were challenged to prove their Aſſertions, which to this day they have not done, and till they do, it's hop'd, their bare aſſeverations will not be taken for granted truths.</p>
+            <p>The Advocates for and againſt this Trade were very numerous at this time, and ſeveral other Reaſons offered <hi>Pro</hi> and <hi>Con.</hi> For the <hi>Eaſt-India</hi> Trade, there was an Eſſay writ by a great Maſter of the Engliſh Style, who, with extraordinary Computations and Rhetorical flouriſhes, endea<g ref="char:EOLhyphen"/>voured to repreſent this Trade Profitable to <hi>England;</hi> but his Computations, and Obſervations, being many of them not well grounded, ſeveral Anſwers were given thereunto; however the Diſcourſe was admired, and did Service at that time. But the ſame Gentleman ſince treat<g ref="char:EOLhyphen"/>ing on another Subject, has either altered his Opinion, or elſe unfortunately wrote ſomething in a late Eſſay (on the probable methods of making a People Gainers in the Balance of Trade) that makes many Men think ſo.</p>
+            <p>The Ladies in general, ſhew'd a great averſion to this Bill, whether from a diſlike taken at the Word <hi>Restraining,</hi> or from a ſtrange delight for <hi>far fetch'd and dear bought,</hi> prefer the <hi>Indian</hi> be<g ref="char:EOLhyphen"/>fore the <hi>Engliſh</hi> Manufactures, unleſs the Seller will ſolemnly declare they are <hi>Indian</hi> made, not conſidering how impoſſible it will be for their Rents to be paid, if the <hi>Engliſh</hi> Manufactures be ruin'd, which muſt be the neceſſary conſequence of ſuch unaccountable fancies; which if they did, we verily believe they would ſoon reſtrain their Averſion. And what force ſuch Advocates had, we will not pretend to determine, but hope they'll now be Advocates for this Cauſe.</p>
+            <p>The beginning of the laſt Seſſions, further Applications were made; and the Manufacturers ap<g ref="char:EOLhyphen"/>prehending that the Method propoſed by the former Bills would not fully Anſwer the Prohibi<g ref="char:EOLhyphen"/>tion deſign'd, offered another Bill, by which all <hi>Silks, Bengals</hi> and <hi>Callico's,</hi> which were to be Prohibited being worn in <hi>England,</hi> ſhould have been confin'd to certain Ware-Houſes, and not thence removed till Exported; but this Method not being well underſtood, or judged reaſona<g ref="char:EOLhyphen"/>ble, was oppoſed, and the Bill ſtopt thereupon.</p>
+            <p>Towards the latter end of that Seſſions, certain very rich <hi>Merchants,</hi> and others, propoſed to lend the Government two Millions, upon condition to have 8 <hi>per Cent. per Annum,</hi> and liberty to Trade to the <hi>Eaſt-Indies</hi> excluſive of all others: The Neceſſities of the Government for Money at that time, induced a compliance, and a Settlement of that Trade was made accordingly.</p>
+            <p>The <hi>Engliſh Manufacturers,</hi> with <hi>dejected Countenances</hi> and <hi>aking Hearts,</hi> beheld this mighty Structure, (which was raiſed by the help of ſome of their <hi>Principal Pillars</hi>) and foreſeeing the <hi>diſmal</hi> conſequences, complain'd; but were told, 'Twas not then time, nor muſt they oppoſe or clogg the Bill, the two Millions being <hi>abſolutely</hi> neceſſary for Supply of the Government; but were likewiſe told, That care ſhould be taken of them. And the chief Promoters of the Bill, as Mr. <hi>Samuel Shepherd,</hi> mr. <hi>Heathcote,</hi> and many others, declared at that time, to divers <hi>Members</hi> of Parliament, <hi>London</hi> Weavers, and others, That they were as ſenſible as they, or the <hi>Weavers</hi> could be, that the <hi>Manufactur'd Silks, Bengals,</hi> and <hi>painted Callico's,</hi> were very <hi>prejudicial</hi> and <hi>deſtructive</hi> to the <hi>Manufactures</hi> of <hi>England,</hi> and promis'd, with a great deal of <hi>ſeeming Since<g ref="char:EOLhyphen"/>rity,</hi> That they would very readily agree to any reaſonable Reſtraint afterwards, but nothing muſt be then done, for fear of diſturbing the Loan ſo neceſſary to be raiſed by that Bill.</p>
+            <pb n="3" facs="tcp:192117:2"/>
+            <p>The <hi>Manufacturers</hi> having all along ſhewed their <hi>Zeal</hi> for the Support of the preſent Govern<g ref="char:EOLhyphen"/>ment were from theſe Conſiderations induced to be quiet, and wait a more favourable juncture; and the <hi>London Weavers</hi> were ſo allured with the fair Speeches, and charming Promiſes of theſe <hi>New Eaſt-India Merchants,</hi> that upon calling this <hi>Parliament,</hi> they thought none ſo fit for their Repreſentatives as they; ſo that by their Intereſt and Induſtry, two of the Principal Directors were very near carrying the Election for the City of <hi>London.</hi>
+            </p>
+            <p>But now the Tables are turned, and the <hi>New Eaſt-India</hi> Men as <hi>zealouſly</hi> oppoſe all Reſtricti<g ref="char:EOLhyphen"/>ons as the <hi>Old;</hi> and tho' they made ſhew of conſenting to ſome Reſtraints, and ſome Meetings and Diſcourſes were had thereupon, yet they never proceeded further, but lately neglected to meet ſeveral <hi>Members of Parliament,</hi> and others, at Time and Place agreed on by their own Ap<g ref="char:EOLhyphen"/>pointment. By which practiſes they plainly ſhew, That all <hi>Eaſt-India Traders</hi> have the ſame Principals and Intereſt, to Support and Carry on.</p>
+            <p>This <hi>New Company</hi> being thus Settled, and the <hi>Old</hi> getting in for a conſiderable ſhare, are now ſtriving hard which ſhall Ride on the Fore-Horſe, but both agreed to drive on to our Ruine, if not Reſtrained by the <hi>Legiſlative Power</hi> of the Nation: For, if when they had a Stock but of <hi>Three hundred ſeventy two thouſand Pounds,</hi> and no Act of Parliament to Support them, they drove ſo great and pernicious a Trade as is herein before recited, what can any Rational Man think will be the conſequence of a Stock of <hi>Two Millions,</hi> which is more than is uſed by all the Manu<g ref="char:EOLhyphen"/>facturers of <hi>England?</hi> The very proſpect makes many, true Lovers of their Country, Hearts ake.</p>
+            <p>The great quantities of <hi>Eaſt-India</hi> Manufactures lately Imported, and the proſpect of much greater in a very ſhort time, has been the great occaſion of the ruine of the <hi>Canterbury</hi> Trade, which is reduced in leſs than three Years time, above Seven Parts in Eight; And have alſo neceſſitated moſt of the <hi>London</hi> Silk-<hi>Weavers</hi> to give over their Trades; many of them are gone to <hi>Ireland,</hi> and other Foreign Parts; and a great many of thoſe left behind are fallen to <hi>Comb, Card</hi> and <hi>Spin</hi> Wooll, and make <hi>Worſted Stuffs, Druggets, Says, Serges,</hi> and almoſt all other ſorts of our Woollen Manufactures, which have, and muſt of Neceſſity, hinder the <hi>Weavers</hi> and <hi>Clothiers,</hi> in the ſeveral Counties and Places where theſe Manufactures have been for a long time made. The ſad Effects whereof are already ſo ſenſibly felt in the Cities of <hi>Norwich</hi> and <hi>Can<g ref="char:EOLhyphen"/>terbury,</hi> that great multitudes are there out of Imployment; and being ſo, are reduced to great Neceſſities, and thereupon grown very uneaſie and burdenſome to thoſe Cities and Neighbour<g ref="char:EOLhyphen"/>hoods: And although the <hi>Eaſt-India Advocates</hi> pretend and inſinuate, That the reaſon of the <hi>London</hi> and <hi>Canterbury</hi> Weavers leaving off, proceeds from the want of <hi>Raw Silk,</hi> which is now very ſcarce and dear; this, tho in ſome meaſure is allow'd to have leſſen'd their Trade, yet the principal Cauſe proceeds from the <hi>Eaſt-India Silks, Bengals,</hi> and fine <hi>painted Callico's:</hi> For were they not brought in, and ſo generally worn here, the Weavers cou'd ſtill very well have gone on with their Trades in <hi>Slight Silks, Half Silks,</hi> and the like. And that which adds ſtill to their misfortune, is, That there has been (as we are told, and fear it's too true) above 600,000 <hi>l.</hi> in leſs than Ten Months, ſent to the <hi>Eaſt Indies,</hi> the Returns being moſt in Manufactured Goods, deſtroys their future hopes, unleſs ſome reſtraint be put upon the Expenſe of theſe <hi>Indian Commodities.</hi>
+            </p>
+            <div type="part">
+               <head>This being the true State of the CASE,</head>
+               <p>THE <hi>Manufacturers</hi> are therefore come again, to lay before the Parliament a Repreſentation thereof, and hope ſome regard will be had to the Preſervation of the Manufactures of this King<g ref="char:EOLhyphen"/>dom; if not for their ſakes, yet for the <hi>numerous Poor</hi> that have their dependance thereupon; and for the <hi>Landlords</hi> and <hi>Tenants,</hi> whoſe Intereſts is alſo concern'd in this matter: For we think it will not admit of an Argument, to prove, That if the <hi>Manufacturers</hi> be diſcouraged and rui<g ref="char:EOLhyphen"/>ned, the <hi>Owners</hi> and <hi>Farmers</hi> muſt ſhare in the misfortune: And that the <hi>Eaſt-India</hi> Manufactures worn in this Kingdom will do it, we think muſt be very plain and obvious to all that will ſeri<g ref="char:EOLhyphen"/>ouſly conſider the Caſe, and that are not <hi>Eaſt-India Merchants,</hi> or otherwiſe concern'd in In<g ref="char:EOLhyphen"/>tereſt, or miſled by their fly Inſinuations, or fallacious way of Argumentation. And for better Information of ſuch, it's deſired they would read the Obſervations of the <hi>Admired Author</hi> of the Eſſay on the <hi>Eaſt-India</hi> Trade, in his Eſſay upon the <hi>Probable Methods of making a People Gainers by the Balance of Trade,</hi> p. 128. And that part of an Eſſay on the State of <hi>England,</hi> in relation to <hi>its Trade, its Poor, and its Taxes,</hi> which relates to the <hi>Eaſt-India</hi> Trade (writ by Mr. <hi>John Cary):</hi> And if theſe will not ſatisfy their doubts, there will very ſhortly be farther Anſwers given to all <hi>material Ob<g ref="char:EOLhyphen"/>jections</hi> that have been raiſed againſt this Reſtriction; and in the mean time, we humbly con<g ref="char:EOLhyphen"/>ceive our Caſe deſerves the conſideration of the Parliament, as well as either the <hi>Old</hi> or <hi>New Eaſt-India</hi> Companies, and Hope, and Pray, it may be conſidered accordingly.</p>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:192117:3"/>
+               <head>A ſhort <hi>Abſtract</hi> of the CASE, with ſome <hi>Remarks</hi> thereupon.</head>
+               <p>THat for ſeveral Years, after the <hi>Eaſt-India</hi> Company was Eſtabliſh'd, they were afraid to bring in Manufactured Goods, which they knew were very prejudicial to our own: But now, by their great Stock and Intereſt, they are got over theſe fears, and bring in vaſt quantities, oppoſing all kind of Reſtraint, tho' they are convinc'd, and have declared their Manufactures are prejudicial to this Kingdom.</p>
+               <p>That as their Manufactures increas'd, our own were diſcouraged, and <hi>Wooll</hi> reduced ſo low, that an Act was made for <hi>Burying in Woollen,</hi> and the Manufacturers at the ſame time redu<g ref="char:EOLhyphen"/>ced to great neceſſities, and many ruin'd thereby.</p>
+               <p>That during great part of the late War, the <hi>Eaſt-India</hi> Trade was under ſome Diſcourage<g ref="char:EOLhyphen"/>ment, and while it was ſo, our <hi>Engliſh</hi> Manufactures flouriſhed very much, and extended to ſeveral Places, where before, the People were out of Employment, <hi>Wool advanced</hi> and bore a good Price, and all other Proviſions raiſed proportionably.</p>
+               <p>That the <hi>Engliſh Manufacturers,</hi> finding the <hi>Eaſt-India</hi> Traders endeavouring to get an Eſtabliſh<g ref="char:EOLhyphen"/>ment by <hi>Act</hi> of Parliament, and knowing how fatal it might prove to their Manufactures, unleſs they were in ſome meaſure reſtrain'd, made their Application to the Parliament, and in Two ſucceeding Seſſions a Reſtraining Bill was paſt in their Favour in the Houſe of Commons, and a Third being drawn up in a different Method to the Two former, was ſtopt thereupon.</p>
+               <p>That the Propoſal of advancing Two Millions for the Supply of the Government, was the great Inducement for the Eſtabliſhment of the New Company; and the Reaſons the Manufacturers did not then ſo vigorouſly complain and ſollicite againſt the Eſtabliſhment, as formerly they had done, proceeded from the fair Promiſes given by the New <hi>Eaſt-India</hi> Men, and the Hope of a more favourable Opportunity; being unwilling to diſturb the Loan ſo neceſſary then to be raiſed.</p>
+               <p>That the Manufacturers being deceived by theſe <hi>Eaſt-India</hi> Traders fair Promiſes, and finding that the late great Importation and Wear of their <hi>Indian</hi> Manufactures are increaſing, and have already, in a great meaſure, ruin'd the <hi>Canterbury</hi> Trade, and obliged the <hi>London</hi> Weavers to fall upon all ſorts of Woollen Manufactures, to the Prejudice (and may in a ſhort time prove to the utter Ruin) of ſeveral Places where theſe Manufactures have for a long time been <hi>eſtabliſhed</hi> are therefore come again to repreſent their <hi>deplorable</hi> Caſe, and pray the Conſideration of this <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> and hope they will be pleaſed to conſider it as well as either the <hi>Old</hi> or <hi>New Eaſt-India</hi> Companies Caſes.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed, and are to be Sold by <hi>A. Baldwin</hi> in <hi>Warwick-Lane,</hi> 1699.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
